@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Myiahjayy
 - 👀 I’m interested in Software Development and Cyber Security
-- 🌱 I’m currently learning nmap, c++, and Python
-- 💞️ I’m looking to collaborate on anything really
+- 🧠  I’m currently learning C++ and Python
+- 🌱 I’m looking to collaborate on anything really
 - 📫 How to reach me shamiaajohnson@gmail.com
 
 <!---
